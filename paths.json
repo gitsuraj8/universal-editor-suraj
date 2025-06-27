@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/universal-editor-suraj/:/",
+    "/content/universal-editor-suraj/configuration:/.helix/config.json",
+    "/content/universal-editor-suraj/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/universal-editor-suraj/"
   ]
 }
